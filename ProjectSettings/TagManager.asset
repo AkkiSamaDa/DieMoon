@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerAtk
+  - Enemy
+  - Bounds
+  - Bullet
+  - BossBounds
+  - EnemyAtk
+  - SceneLoadMgr
+  - BornPoint
+  - Interactive
+  - IronPlatForm
+  - GrassPlatForm
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Ground
+  - DemageTrigger
+  - Enemy
+  - Die
+  - DropItem
+  - ItemTrigger
+  - Fallen
+  - FallenableGround
+  - Interactive
+  - GrondCheck
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sky
+    uniqueID: 1137255079
+    locked: 0
+  - name: Back
+    uniqueID: 3415235353
+    locked: 0
+  - name: Mid
+    uniqueID: 2637904975
+    locked: 0
+  - name: Hero
+    uniqueID: 1740383027
+    locked: 0
+  - name: Enemy
+    uniqueID: 3378297367
+    locked: 0
+  - name: Water_Back
+    uniqueID: 2061228197
+    locked: 0
+  - name: Water_Mid
+    uniqueID: 527791281
+    locked: 0
+  - name: Water_Front
+    uniqueID: 2953284723
+    locked: 0
+  - name: Front
+    uniqueID: 638225373
+    locked: 0
+  - name: UIWorld
+    uniqueID: 4153301803
+    locked: 0
+  - name: UI
+    uniqueID: 2499390237
+    locked: 0
